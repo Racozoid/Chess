@@ -1,0 +1,41 @@
+2021-12-05 20:20:35,645 - LoggerLogger - INFO - Program started
+2021-12-05 20:20:53,209 - LoggerLogger - INFO - Added coordinates (1; 1) and (5; 6) and chosen figure -- ferzin
+2021-12-05 20:20:53,209 - LoggerLogger - INFO - output: Нет, они не одного цвета
+2021-12-05 20:20:53,210 - LoggerLogger - INFO - output: Ферзь не угрожает полю (5; 6)
+Чтобы за два хода попасть в это поле необходимо встать на поле (5; 1)
+2021-12-05 20:20:57,027 - LoggerLogger - INFO - Program done
+2021-12-05 20:21:27,379 - LoggerLogger - INFO - Program started
+2021-12-05 20:21:29,062 - LoggerLogger - ERROR - Incorrect value. Incorrect input
+2021-12-05 20:21:29,062 - LoggerLogger - INFO - Program started
+2021-12-05 20:21:32,881 - LoggerLogger - ERROR - Incorrect value. Out of range
+2021-12-05 20:21:32,886 - LoggerLogger - INFO - Program started
+2021-12-05 20:21:34,058 - LoggerLogger - ERROR - Incorrect value. Out of range
+2021-12-05 20:21:34,058 - LoggerLogger - INFO - Program started
+2021-12-05 20:21:38,129 - LoggerLogger - ERROR - Incorrect value. Out of range
+2021-12-05 20:21:38,129 - LoggerLogger - INFO - Program started
+2021-12-05 20:21:51,866 - LoggerLogger - INFO - Added coordinates (2; 2) and (1; 5) and chosen figure -- rook
+2021-12-05 20:21:51,866 - LoggerLogger - INFO - output: Они одного цвета -- белого
+2021-12-05 20:21:51,866 - LoggerLogger - INFO - Ладья не угрожает полю (1; 5)
+Чтобы за два хода попасть в это поле необходимо встать на поле (1; 2)
+2021-12-05 20:21:54,593 - LoggerLogger - INFO - Program done
+2021-12-05 20:21:57,263 - LoggerLogger - INFO - Program started
+2021-12-05 20:22:20,793 - LoggerLogger - INFO - Added coordinates (8; 8) and (3; 8) and chosen figure -- bishop
+2021-12-05 20:22:20,794 - LoggerLogger - INFO - output: Нет, они не одного цвета
+2021-12-05 20:22:20,794 - LoggerLogger - INFO - Слон не угрожает полю (3; 8)
+2021-12-05 20:22:20,794 - LoggerLogger - INFO - Слон никаким образом не может угрожать полю (3; 8)
+2021-12-05 20:22:23,186 - LoggerLogger - INFO - Program done
+2021-12-05 20:22:26,550 - LoggerLogger - INFO - Program started
+2021-12-05 20:22:45,824 - LoggerLogger - INFO - Added coordinates (2; 1) and (2; 7) and chosen figure -- bishop
+2021-12-05 20:22:45,824 - LoggerLogger - INFO - output: Они одного цвета -- черного
+2021-12-05 20:22:45,824 - LoggerLogger - INFO - Слон не угрожает полю (2; 7)
+2021-12-05 20:22:45,825 - LoggerLogger - INFO - Чтобы за два хода попасть в это поле необходимо встать на поле (5; 4)
+2021-12-05 20:22:47,499 - LoggerLogger - INFO - Program done
+2021-12-05 20:22:50,111 - LoggerLogger - INFO - Program started
+2021-12-05 20:23:02,100 - LoggerLogger - ERROR - Incorrect value. Out of range
+2021-12-05 20:23:02,101 - LoggerLogger - INFO - Program started
+2021-12-05 20:23:03,729 - LoggerLogger - ERROR - Incorrect value. Incorrect input
+2021-12-05 20:23:03,729 - LoggerLogger - INFO - Program started
+2021-12-05 20:23:32,115 - LoggerLogger - INFO - Added coordinates (5; 5) and (4; 3) and chosen figure -- knight
+2021-12-05 20:23:32,115 - LoggerLogger - INFO - output: Нет, они не одного цвета
+2021-12-05 20:23:32,115 - LoggerLogger - INFO - Конь угрожает полю (4; 3)
+2021-12-05 20:23:33,663 - LoggerLogger - INFO - Program done
